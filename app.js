@@ -6,7 +6,7 @@ INTRANET EXECUTIVA KPI CCO • SLU
 
 /* SUPABASE */
 const SUPABASE_URL = "https://rotzysfvtcnezvsguanv.supabase.co";
-const SUPABASE_KEY = "sb_publishable_sNnkt8C4Wf1jaY2ARIibyw_S5ze7Ldr";
+const SUPABASE_KEY = "sb_publishable_qQh8LPJbvvFextBIpEbqAA_FfeaYGb0";
 
 const banco = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
