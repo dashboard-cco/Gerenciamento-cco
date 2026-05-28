@@ -814,6 +814,7 @@ const totalEquipes =
     (soma, item) => {
       if (codigo === "P12") {
         return soma + numero(
+          item.previsto ||
           item.executado ||
           item.acumulado_mes ||
           item.quantidade ||
